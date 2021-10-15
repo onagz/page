@@ -11,10 +11,10 @@ function ReviewsSetion() {
             <InnerLayout>
                 <div className="reviews">
                     <ReviewItem 
-                        text={'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt culpa ad itaque quas?'} 
+                        text={'Emmanuel is AMAZING, A very good professional, I hired him to build my website, and he did an EXCELLENT JOB, he also did an EXCELLENT JOB in SEO on my website, and I could get many new customers for my business Nicky Party Rental. Once again, THANK YOU EMMANUEL.'} 
                     />
                     <ReviewItem 
-                        text={'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt culpa ad itaque quas? Dos ir por culpa ad itaque quas!'} 
+                        text={'A Website mirrors the company identity, That gives it a face and a soul. Onanuga Emmanuel did that for our website. He instantly knew what we wanted to accomplish, it was fast, responsive and relatively affordable. The final product was very functional, tasteful and aesthetically nice to look at. We already recommended him to other customers and I think that would be the best testimonial and the ultimate recognition.'} 
                     />
                     
                 </div>
